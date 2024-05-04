@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@nuxtjs/eslint-config-typescript"
+  ],
+  "rules": {
+    "vue/multi-word-component-names": "warn",
+    "vue/no-v-html": "warn",
+    "semi": "off"
+  }
+}
